@@ -1,1 +1,1 @@
-# ListView with Imageview and Textview using Retrofit
+# ListView with Image and Text using Retrofit
